@@ -1,31 +1,31 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: E:/Unity/Projects/DevelopmentTesting/Packages/manifest.json
+    m_FilePath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637955882398400434
-    m_Hash: 1836748240
+      ticks: 637961171290000000
+    m_Hash: 883981596
   m_LockFileStatus:
-    m_FilePath: E:/Unity/Projects/DevelopmentTesting/Packages/packages-lock.json
+    m_FilePath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637955882398967113
-    m_Hash: 1704337966
+      ticks: 637961171350000000
+    m_Hash: 3297245903
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.2d.animation@5.0.10
+    - packageId: com.unity.2d.animation@5.2.0
       testable: 0
       isDirectDependency: 1
-      version: 5.0.10
+      version: 5.2.0
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.2d.animation@5.0.10
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.2d.animation@5.2.0
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -111,6 +111,7 @@ m_PackageAssets:
         - 5.1.1
         - 5.2.0
         - 5.2.1
+        - 5.2.2
         - 5.2.3
         - 6.0.0-pre.1
         - 6.0.0-pre.2
@@ -128,6 +129,7 @@ m_PackageAssets:
         - 7.0.4
         - 7.0.5
         - 7.0.6
+        - 7.0.7
         - 8.0.0-pre.3
         - 8.0.0-pre.4
         - 8.0.0
@@ -136,15 +138,14 @@ m_PackageAssets:
         - 9.0.0-pre.1
         - 9.0.0-pre.3
         compatible:
-        - 5.0.6
-        - 5.0.7
-        - 5.0.8
-        - 5.0.9
-        - 5.0.10
-        verified: 5.0.10
+        - 5.2.0
+        - 5.2.1
+        - 5.2.2
+        - 5.2.3
+        verified: 5.2.3
       dependencies:
       - name: com.unity.2d.common
-        version: 4.0.4
+        version: 4.2.0
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.sprite
@@ -155,7 +156,7 @@ m_PackageAssets:
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.2d.common
-        version: 4.0.4
+        version: 4.2.0
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -187,20 +188,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637750142350000000
+      datePublishedTicks: 637836454510000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
+        revision: de062e9b52e01d9b7c1e2b7e86c8897a78342167
         path: 
     - packageId: com.unity.2d.pixel-perfect@4.0.1
       testable: 0
       isDirectDependency: 1
       version: 4.0.1
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.2d.pixel-perfect@4.0.1
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -209,7 +210,7 @@ m_PackageAssets:
         email: 
         url: 
       category: 
-      type: 
+      type: tool
       description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera
         component which ensures your pixel art remains crisp and clear at different
         resolutions, and stable in motion.
@@ -270,12 +271,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/2d.git
         revision: 7d7470f4ca0ea8353d4c9640b3b6ae9d1ebd9c1d
         path: 
-    - packageId: com.unity.2d.psdimporter@4.1.3
+    - packageId: com.unity.2d.psdimporter@4.3.0
       testable: 0
       isDirectDependency: 1
-      version: 4.1.3
+      version: 4.3.0
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.2d.psdimporter@4.1.3
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.2d.psdimporter@4.3.0
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -346,6 +347,7 @@ m_PackageAssets:
         - 6.0.2
         - 6.0.3
         - 6.0.4
+        - 6.0.5
         - 7.0.0-pre.3
         - 7.0.0-pre.4
         - 7.0.0
@@ -353,21 +355,18 @@ m_PackageAssets:
         - 8.0.0-pre.1
         - 8.0.0-pre.3
         compatible:
-        - 4.1.0
-        - 4.1.1
-        - 4.1.2
-        - 4.1.3
-        verified: 4.1.3
+        - 4.3.0
+        verified: 4.3.0
       dependencies:
       - name: com.unity.2d.common
-        version: 4.0.4
+        version: 4.2.0
       - name: com.unity.2d.animation
-        version: 5.0.10
+        version: 5.2.0
       - name: com.unity.2d.sprite
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.2d.common
-        version: 4.0.4
+        version: 4.2.0
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -381,7 +380,7 @@ m_PackageAssets:
       - name: com.unity.modules.uielementsnative
         version: 1.0.0
       - name: com.unity.2d.animation
-        version: 5.0.10
+        version: 5.2.0
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.modules.animation
@@ -402,20 +401,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637750142410000000
+      datePublishedTicks: 637836454540000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
+        revision: de062e9b52e01d9b7c1e2b7e86c8897a78342167
         path: 
     - packageId: com.unity.2d.sprite@1.0.0
       testable: 0
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.2d.sprite@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.2d.sprite@1.0.0
       assetPath: Packages/com.unity.2d.sprite
       name: com.unity.2d.sprite
       displayName: 2D Sprite
@@ -442,13 +441,13 @@ m_PackageAssets:
       - sprite
       - sprite editor window
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -461,12 +460,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.2d.spriteshape@5.1.7
+    - packageId: com.unity.2d.spriteshape@5.3.0
       testable: 0
       isDirectDependency: 1
-      version: 5.1.7
+      version: 5.3.0
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.2d.spriteshape@5.1.7
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.2d.spriteshape@5.3.0
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -551,22 +550,19 @@ m_PackageAssets:
         - 7.0.3
         - 7.0.4
         - 7.0.5
+        - 7.0.6
         - 8.0.0-pre.4
         - 8.0.0-pre.5
         - 8.0.0
         - 9.0.0-pre.1
         compatible:
-        - 5.1.3
-        - 5.1.4
-        - 5.1.5
-        - 5.1.6
-        - 5.1.7
-        verified: 5.1.7
+        - 5.3.0
+        verified: 5.3.0
       dependencies:
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.common
-        version: 4.0.4
+        version: 4.2.0
       - name: com.unity.2d.path
         version: 4.0.2
       - name: com.unity.modules.physics2d
@@ -575,7 +571,7 @@ m_PackageAssets:
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.common
-        version: 4.0.4
+        version: 4.2.0
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -611,20 +607,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637750142490000000
+      datePublishedTicks: 637836454590000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
+        revision: de062e9b52e01d9b7c1e2b7e86c8897a78342167
         path: 
     - packageId: com.unity.2d.tilemap@1.0.0
       testable: 0
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.2d.tilemap@1.0.0
       assetPath: Packages/com.unity.2d.tilemap
       name: com.unity.2d.tilemap
       displayName: 2D Tilemap Editor
@@ -650,13 +646,13 @@ m_PackageAssets:
       - 2d
       - Tilemap
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -669,12 +665,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.collab-proxy@1.7.1
+    - packageId: com.unity.collab-proxy@1.17.0
       testable: 0
       isDirectDependency: 1
-      version: 1.7.1
+      version: 1.17.0
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.collab-proxy@1.7.1
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.collab-proxy@1.17.0
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -753,33 +749,6 @@ m_PackageAssets:
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         compatible:
-        - 1.7.1
-        - 1.8.0
-        - 1.9.0
-        - 1.10.2
-        - 1.11.2
-        - 1.12.5
-        - 1.13.5
-        - 1.14.1
-        - 1.14.4
-        - 1.14.7
-        - 1.14.9
-        - 1.14.12
-        - 1.14.13
-        - 1.14.15
-        - 1.14.16
-        - 1.14.17
-        - 1.14.18
-        - 1.15.1
-        - 1.15.4
-        - 1.15.7
-        - 1.15.9
-        - 1.15.12
-        - 1.15.13
-        - 1.15.15
-        - 1.15.16
-        - 1.15.17
-        - 1.15.18
         - 1.17.0
         - 1.17.1
         - 1.17.2
@@ -793,13 +762,15 @@ m_PackageAssets:
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
-        verified: 1.7.1
+        verified: 1.17.2
       dependencies:
-      - name: com.unity.nuget.newtonsoft-json
-        version: 2.0.0
+      - name: com.unity.services.core
+        version: 1.0.1
       resolvedDependencies:
-      - name: com.unity.nuget.newtonsoft-json
-        version: 2.0.0
+      - name: com.unity.services.core
+        version: 1.0.1
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
       keywords:
       - backup
       - cloud
@@ -826,20 +797,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637616921650000000
+      datePublishedTicks: 637914260330000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: 30ef59f552633de9ff0401db4e73ac89982d4ac0
+        revision: de2fce09233dd85d080b9609cade4b0bba9ee709
         path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -925,7 +896,7 @@ m_PackageAssets:
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.27
+        version: 1.1.31
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -958,7 +929,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.16
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.ide.visualstudio@2.0.16
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -1020,7 +991,7 @@ m_PackageAssets:
         version: 1.1.9
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.27
+        version: 1.1.31
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -1053,7 +1024,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.5
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.ide.vscode@1.2.5
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.ide.vscode@1.2.5
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -1121,12 +1092,12 @@ m_PackageAssets:
         url: https://github.com/Unity-Technologies/com.unity.ide.vscode.git
         revision: b0740c80bfc2440527c317109f7c3d9100132722
         path: 
-    - packageId: com.unity.test-framework@1.1.27
+    - packageId: com.unity.test-framework@1.1.31
       testable: 0
       isDirectDependency: 1
-      version: 1.1.27
+      version: 1.1.31
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.test-framework@1.1.27
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.test-framework@1.1.31
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1179,9 +1150,6 @@ m_PackageAssets:
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         compatible:
-        - 1.1.27
-        - 1.1.29
-        - 1.1.30
         - 1.1.31
         - 1.1.33
         - 2.0.1-exp.1
@@ -1217,20 +1185,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637594751620000000
+      datePublishedTicks: 637804266210000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: c2f2cc9b7ea61d42964257363595dff5e8c47c42
+        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+        revision: 438b0defc147c9be5c969ca79ff03a722b4590ed
         path: 
     - packageId: com.unity.textmeshpro@3.0.6
       testable: 0
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.textmeshpro@3.0.6
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1396,7 +1364,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1562,7 +1530,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.ugui@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.ugui@1.0.0
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1601,13 +1569,13 @@ m_PackageAssets:
       - Unity UI
       - Canvas
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1625,7 +1593,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.ai@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.ai@1.0.0
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1649,13 +1617,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1673,7 +1641,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.androidjni@1.0.0
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1697,13 +1665,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1721,7 +1689,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.animation@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.animation@1.0.0
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1745,13 +1713,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1769,7 +1737,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1793,13 +1761,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1817,7 +1785,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.audio@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.audio@1.0.0
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1841,13 +1809,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1865,7 +1833,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.cloth@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.cloth@1.0.0
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1893,13 +1861,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1917,7 +1885,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.director@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.director@1.0.0
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1949,13 +1917,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1973,7 +1941,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1998,13 +1966,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2022,7 +1990,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.imgui@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.imgui@1.0.0
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -2046,13 +2014,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2070,7 +2038,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -2094,13 +2062,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2118,7 +2086,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -2142,13 +2110,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2166,7 +2134,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.physics@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.physics@1.0.0
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -2190,13 +2158,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2214,7 +2182,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.physics2d@1.0.0
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -2238,13 +2206,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2262,7 +2230,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.screencapture@1.0.0
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -2290,13 +2258,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2314,7 +2282,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.terrain@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.terrain@1.0.0
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -2338,13 +2306,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2362,7 +2330,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -2394,13 +2362,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2418,7 +2386,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.tilemap@1.0.0
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -2446,13 +2414,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2470,7 +2438,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.ui@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.ui@1.0.0
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2494,13 +2462,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2518,7 +2486,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.uielements@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.uielements@1.0.0
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2558,13 +2526,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2582,7 +2550,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.umbra@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.umbra@1.0.0
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2606,13 +2574,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2630,7 +2598,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2662,13 +2630,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2686,7 +2654,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2710,13 +2678,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2734,7 +2702,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2766,13 +2734,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2790,7 +2758,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2822,13 +2790,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2846,7 +2814,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2878,13 +2846,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2902,7 +2870,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2950,13 +2918,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2974,7 +2942,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.vehicles@1.0.0
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -3002,13 +2970,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3026,7 +2994,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.video@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.video@1.0.0
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -3062,13 +3030,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3086,7 +3054,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.vr@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.vr@1.0.0
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -3124,13 +3092,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3148,7 +3116,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.wind@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.wind@1.0.0
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -3172,13 +3140,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3196,7 +3164,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.xr@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.xr@1.0.0
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -3232,13 +3200,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3256,7 +3224,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.subsystems@1.0.0
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -3284,13 +3252,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3308,7 +3276,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -3343,13 +3311,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3367,7 +3335,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3427,65 +3395,68 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
         path: 
-    - packageId: com.unity.nuget.newtonsoft-json@2.0.0
+    - packageId: com.unity.services.core@1.0.1
       testable: 0
       isDirectDependency: 0
-      version: 2.0.0
+      version: 1.0.1
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
-      assetPath: Packages/com.unity.nuget.newtonsoft-json
-      name: com.unity.nuget.newtonsoft-json
-      displayName: Newtonsoft Json
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.services.core@1.0.1
+      assetPath: Packages/com.unity.services.core
+      name: com.unity.services.core
+      displayName: Services Core
       author:
         name: 
         email: 
         url: 
       category: 
       type: 
-      description: 'Newtonsoft Json for use in Unity projects and Unity packages.
-        Currently synced to version 12.0.2.
+      description: 'This package defines common components used by multiple Game
+        Service packages.
 
-
-        This package is used for advanced
-        json serialization and deserialization. Most Unity users will be better suited
-        using the existing json tools built into Unity.
-
-        To avoid assembly
-        clashes, please use this package if you intend to use Newtonsoft Json.'
+        These are standardized and aim to unify the overall
+        experience of working with Game Services packages.'
       status: 4
       errors: []
       versions:
         all:
-        - 1.0.0-preview.2
-        - 1.0.0-preview.3
-        - 1.0.0-preview.4
-        - 1.0.1-preview.1
-        - 1.1.2
-        - 2.0.0-preview
-        - 2.0.0-preview.1
-        - 2.0.0-preview.2
-        - 2.0.0
-        - 2.0.1-preview.1
-        - 2.0.2
-        - 3.0.1
-        - 3.0.2
+        - 1.0.1
+        - 1.1.0-pre.7
+        - 1.1.0-pre.8
+        - 1.1.0-pre.9
+        - 1.1.0-pre.10
+        - 1.1.0-pre.11
+        - 1.1.0-pre.41
+        - 1.1.0-pre.69
+        - 1.2.0
+        - 1.3.1
+        - 1.3.2
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
         compatible:
-        - 1.0.0-preview.2
-        - 1.0.0-preview.3
-        - 1.0.0-preview.4
-        - 1.0.1-preview.1
-        - 1.1.2
-        - 2.0.0-preview
-        - 2.0.0-preview.1
-        - 2.0.0-preview.2
-        - 2.0.0
-        - 2.0.1-preview.1
-        - 2.0.2
-        - 3.0.1
-        - 3.0.2
-        verified: 2.0.2
-      dependencies: []
-      resolvedDependencies: []
+        - 1.0.1
+        - 1.1.0-pre.7
+        - 1.1.0-pre.8
+        - 1.1.0-pre.9
+        - 1.1.0-pre.10
+        - 1.1.0-pre.11
+        - 1.1.0-pre.41
+        - 1.1.0-pre.69
+        - 1.2.0
+        - 1.3.1
+        - 1.3.2
+        - 1.4.0
+        - 1.4.1
+        - 1.4.2
+        - 1.4.3
+        verified: 1.4.3
+      dependencies:
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
       keywords: []
       registry:
         id: main
@@ -3499,20 +3470,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637237898320000000
+      datePublishedTicks: 637604883250000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-        revision: d2fd6ed876261bbd82f59199ad711e7667bf633a
+        url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+        revision: 4cd880d4fd5c60597629249bf4f324e4c8d7aa2e
         path: 
     - packageId: com.unity.mathematics@1.1.0
       testable: 0
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3588,12 +3559,12 @@ m_PackageAssets:
         url: git@github.com:Unity-Technologies/Unity.Mathematics.git
         revision: 0a3dfafaf606098ea681de4c4be60f3aac63b773
         path: 
-    - packageId: com.unity.2d.common@4.0.4
+    - packageId: com.unity.2d.common@4.2.0
       testable: 0
       isDirectDependency: 0
-      version: 4.0.4
+      version: 4.2.0
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.2d.common@4.0.4
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.2d.common@4.2.0
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3640,15 +3611,15 @@ m_PackageAssets:
         - 6.0.1
         - 6.0.2
         - 6.0.3
+        - 6.0.4
         - 7.0.0-pre.3
         - 7.0.0-pre.4
         - 7.0.0
         - 8.0.0-pre.1
         - 8.0.0-pre.2
         compatible:
-        - 4.0.3
-        - 4.0.4
-        verified: 4.0.4
+        - 4.2.0
+        verified: 4.2.0
       dependencies:
       - name: com.unity.2d.sprite
         version: 1.0.0
@@ -3681,20 +3652,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637750142160000000
+      datePublishedTicks: 637836454410000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
+        revision: de062e9b52e01d9b7c1e2b7e86c8897a78342167
         path: 
     - packageId: com.unity.2d.path@4.0.2
       testable: 0
       isDirectDependency: 0
       version: 4.0.2
       source: 1
-      resolvedPath: E:\Unity\Projects\DevelopmentTesting\Library\PackageCache\com.unity.2d.path@4.0.2
+      resolvedPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Library/PackageCache/com.unity.2d.path@4.0.2
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3732,7 +3703,6 @@ m_PackageAssets:
         - 5.0.1
         - 5.0.2
         compatible:
-        - 4.0.1
         - 4.0.2
         verified: 4.0.2
       dependencies: []
@@ -3762,5 +3732,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: E:/Unity/Projects/DevelopmentTesting/Packages
-m_EditorVersion: 2020.3.16f1 (049d6eca3c44)
+m_ProjectPath: /Users/garrettblankstrom/Documents/GitHub/DevelopmentTesting/Packages
+m_EditorVersion: 2020.3.37f1 (8c66806a0c04)
